@@ -1,4 +1,4 @@
-[![MasterHead](https://t3.ftcdn.net/jpg/01/36/37/58/360_F_136375846_C1AF7kkUz1H1sUJmKL7S3NRCcITKCC9F.jpg)]
+![MasterHead](https://t3.ftcdn.net/jpg/01/36/37/58/360_F_136375846_C1AF7kkUz1H1sUJmKL7S3NRCcITKCC9F.jpg)
 
 <h1 align="center">Hi 👋, I'm Atul Sharma</h1>
 <h3 align="center">FullStack developer from NIT Manipur</h3>
